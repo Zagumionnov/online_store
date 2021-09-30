@@ -11,7 +11,7 @@ Online store training project. Has a "main" page with a list of products, the pa
 ```bash  
 $ virtualenv venv  
 $ source venv/bin/activate  
-$ pip install -r requirenments.txt
+$ pip install -r requirements.txt
 $ python main.py  
 ``` 
 
