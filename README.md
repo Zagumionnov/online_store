@@ -1,4 +1,4 @@
-#Online store
+# Online store
 ___
 Online store training project. Has a "main" page with a list of products, the page "About us" and page for adding products to the site. Also the payment page.
 > Features
